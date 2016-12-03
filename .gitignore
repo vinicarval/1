@@ -1,0 +1,9 @@
+tmp/
+*/*.o
+*/*.exe
+*/Makefile
+*/nbproject/
+*/build/
+*/dist/
+*/*.dep.inc
+
